@@ -1,0 +1,8 @@
+Python version: 3.12.3
+OS/platform: Linux-6.18.38+-x86_64-with-glibc2.39
+pydicom version: 3.0.2
+pandas version: 3.0.5
+numpy version: 2.5.1
+scipy version: not installed
+scikit-learn version: not installed
+matplotlib version: 3.11.1
